@@ -16,7 +16,7 @@ if (!inFrame && !navigator.userAgent.includes('Firefox')) {
             <link rel="icon" href="${localStorage.getItem('icon') || 'https://ssl.gstatic.com/assets/media/branding/product/1x/drive_2020q4_32dp.png'}">
         `);
     
-        location.replace(localStorage.getItem('panicLink') || 'https://classroom.google.com');
+        location.replace(localStorage.getItem('panicLink') || '');
     };
 };
 
