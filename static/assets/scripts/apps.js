@@ -17,6 +17,13 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ["all", "social", "media"],
       error: false
     },
+    {
+      name: "Tiktok",
+      link: "https://youtube.com/shorts",
+      image: "/assets/media/icons/apps/tiktok.png",
+      categories: ["all", "social", "media"],
+      error: false
+    },
  
    
    
