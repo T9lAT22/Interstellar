@@ -6,7 +6,13 @@ document.addEventListener('DOMContentLoaded', () => {
   
  
  
- 
+   {
+      name: "Windows 11",
+      link: "https://win11.blueedge.me/",
+      image: "",
+      categories: ["all", "social", "media"],
+      error: false
+    },
     
   
  
@@ -18,9 +24,9 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
-      name: "Tiktok",
+      name: "Yt shorts",
       link: "https://youtube.com/shorts",
-      image: "/assets/media/icons/apps/tiktok.png",
+      image: "",
       categories: ["all", "social", "media"],
       error: false
     },
@@ -28,13 +34,20 @@ document.addEventListener('DOMContentLoaded', () => {
    
    
   
-   
+  {
+      name: "ChatGPT",
+      link: "https://t9lat9.netfy.blog/chat.html",
+      image: "",
+      categories: ["all", "social"],
+      blank: "true",
+      error: false
+    },  
   
    
   
     {
-      name: "Discord - Login",
-      link: "https://canary.discord.com/login",
+      name: "Discord",
+      link: "https://discord.com",
       image: "/assets/media/icons/discord.jpg",
       categories: ["all", "social"],
       blank: "true",
@@ -44,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
   
   
     {
-      name: "Now.GG (Alternative)",
+      name: "Now-GG",
       link: "https://nowgg.nl",
       image: "/assets/media/icons/now-gg.png",
       categories: ['all', 'emu']
