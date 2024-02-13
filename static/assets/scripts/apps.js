@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
    {
       name: "Windows 11",
       link: "https://win11.blueedge.me/",
-      image: "",
+      image: "https://t9lat9.netfy.blog/windows.jpeg",
       categories: ["all", "social", "media"],
       error: false
     },
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: "Yt shorts",
       link: "https://youtube.com/shorts",
-      image: "",
+      image: "https://t9lat9.netfy.blog/shorts.png",
       categories: ["all", "social", "media"],
       error: false
     },
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
   {
       name: "ChatGPT",
       link: "https://t9lat9.netfy.blog/chat.html",
-      image: "",
+      image: "https://t9lat9.netfy.blog/chat.png",
       categories: ["all", "social"],
       blank: "true",
       error: false
