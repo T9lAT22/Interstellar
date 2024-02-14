@@ -13,6 +13,13 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ["all", "social", "media"],
       error: false
     },
+
+     {
+      name: "Meme soundboard",
+      link: "https://thirtydollar.website/",
+      image: "https://t9lat9.netfy.blog/meme.png",
+      categories: ['all', 'emu']
+    },
     
   
  
