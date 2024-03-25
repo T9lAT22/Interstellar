@@ -13,7 +13,7 @@ body {
   background-color: var(--primary-color);
   color: var(--text-color);
   overflow: hidden;
-  background-image:url("tab.png");
+  background-image:url("https://test99-dev-rjat.3.us-1.fl0.io/tab.png");
 }
 
 .iframe-container iframe {
