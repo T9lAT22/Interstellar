@@ -13,6 +13,7 @@ body {
   background-color: var(--primary-color);
   color: var(--text-color);
   overflow: hidden;
+  background-image:url("https://img.itch.zone/aW1hZ2UvMTY1NDczNS85NzM1Nzg1LmdpZg==/original/LK07lW.gif");
 }
 
 .iframe-container iframe {
