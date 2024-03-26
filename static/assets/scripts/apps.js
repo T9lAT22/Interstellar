@@ -69,6 +69,14 @@ document.addEventListener('DOMContentLoaded', () => {
       image: "/assets/media/icons/now-gg.png",
       categories: ['all', 'emu']
     },
+
+
+     {
+      name: "Xbox cloud gaming",
+      link: "https://www.xbox.com/en-us/play",
+      image: "https://cdn2.steamgriddb.com/icon_thumb/7b6787a3d154cf018b2e9edf0786f276.png",
+      categories: ['all', 'emu']
+    },
    
   ];
     
